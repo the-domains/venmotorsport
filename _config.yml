@@ -1,9 +1,7 @@
-favicon: null
 name: venmotorsport
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6865328815765679
+typography_spectrum: 0.4323308
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Venmotorsport
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6474649053998291
-  brandStrength: 0.3993914816528559
-  rhythmicContrast: 0.9718414198141545
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.3993914816528559
   lightness: 0.9128463969100267
-typography_spectrum: 0.4323308
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.6865328815765679
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.6474649053998291
+  rhythmicContrast: 0.9718414198141545
+purpose: []
