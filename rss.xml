@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[venmotorsport]]></title>
+        <description><![CDATA[venmotorsport]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 16:50:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Short rally Zandvoort]]></title>
+            <description><![CDATA[<article><h1>Short rally Zandvoort</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/566c4507-0548-4c2c-94dd-657df39aa134.png"></article>]]></description>
+            <link>undefinedshort-rally-zandvoort/index.html</link>
+            <guid isPermaLink="false">6b06346f-6f26-47df-baa8-3b00d5354541</guid>
+            <pubDate>Sun, 17 Apr 2016 16:49:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
